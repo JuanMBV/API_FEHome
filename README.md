@@ -1,2 +1,2 @@
 # API_FEHome
-# API for scrap Fire Emblem Heroes Wiki
+API for scrap Fire Emblem Heroes Wiki
